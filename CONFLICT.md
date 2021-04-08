@@ -1,0 +1,3 @@
+Here is a file, a very bad file, because it is going to create...
+
+# CONFLICT
