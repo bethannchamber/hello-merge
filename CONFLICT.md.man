@@ -1,1 +1,5 @@
 Hi how r u mr conclict
+
+This is Bethany editing the file. Just wondering why you chose the file ending name as .md.man and .md.mamun
+
+I think because the file endings are different, they didn't create a conflict.
