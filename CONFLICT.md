@@ -9,3 +9,5 @@ Hi Dipro, this is fine! No conflict! I'm just going to use this merged file to s
 
 Let's see if it works! -- Bethany
 >>>>>>> main
+
+If I comment here, would that be a conflict too, even no one is using this line?_ janet
