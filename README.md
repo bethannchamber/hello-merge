@@ -1,9 +1,9 @@
 
-Dear no one, Im  here to mess things up -- jannnnet
+Dear all, Im  here to mess things up -- janet
 
-This will not creat sum conflict on Saturday. -- dixro
+This will creat some conflict on Saturday. -- dipro
 
-This better create some intense conflict!!!! -- battane
+This better create some intense conflict!!!! -- bethany
 
-Okae!
+So far, this is looking great!
 
