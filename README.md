@@ -1,4 +1,6 @@
 
-I like conflict, do you?
-Believe me! 
-Hurrah ! I solved it.
+This is not create some intense conflict!!!!?
+
+Or else wont create
+
+I like conflict.
