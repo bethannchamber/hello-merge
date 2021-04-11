@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is not create some intense conflict!!!!?
 
 Or else wont create
@@ -9,4 +10,16 @@ Okay.
 I like conflict, do you?
 Believe me! 
 Hurrah ! I solved it.
+=======
+# hello-merge
+## This will creat some conflict on Saturday. -- dipro
+||||||| ed1ae3a
+# hello-merge
+=======
+This better create some intense conflict!!!!
+
+Or else.
+
+Okay.
+>>>>>>> 19a9100156f6481cc7e2c1b06520fd2fcdbab6d6
 >>>>>>> main
